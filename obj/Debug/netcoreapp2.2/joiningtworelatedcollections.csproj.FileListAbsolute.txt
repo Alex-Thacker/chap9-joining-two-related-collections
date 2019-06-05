@@ -1,0 +1,11 @@
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\bin\Debug\netcoreapp2.2\joiningtworelatedcollections.deps.json
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\bin\Debug\netcoreapp2.2\joiningtworelatedcollections.runtimeconfig.json
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\bin\Debug\netcoreapp2.2\joiningtworelatedcollections.runtimeconfig.dev.json
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\bin\Debug\netcoreapp2.2\joiningtworelatedcollections.dll
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\bin\Debug\netcoreapp2.2\joiningtworelatedcollections.pdb
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\obj\Debug\netcoreapp2.2\joiningtworelatedcollections.csprojAssemblyReference.cache
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\obj\Debug\netcoreapp2.2\joiningtworelatedcollections.csproj.CoreCompileInputs.cache
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\obj\Debug\netcoreapp2.2\joiningtworelatedcollections.AssemblyInfoInputs.cache
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\obj\Debug\netcoreapp2.2\joiningtworelatedcollections.AssemblyInfo.cs
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\obj\Debug\netcoreapp2.2\joiningtworelatedcollections.dll
+C:\Users\Alex\workspace\csharp\chap9\joiningtworelatedcollections\obj\Debug\netcoreapp2.2\joiningtworelatedcollections.pdb
